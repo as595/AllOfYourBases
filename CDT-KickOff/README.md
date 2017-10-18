@@ -2,7 +2,7 @@
 Tutorial: Gaussian Process Modelling in Python
 ---
 
-This folder contains material for the STFC Data Intensive CDT Kick-Off tutorial on GPM in Python. There are two levels of tutorial depending on Python proficiency. Both use the dataset KIC
+This folder contains material for the STFC Data Intensive CDT Kick-Off tutorial on GPM in Python. There are two levels of tutorial depending on Python proficiency. Both use the dataset KIC1430163.tbl.
 
 Level: Beginner
 - KeplerLightCurve.ipynb - uses the **george** (v0.2.1) GPM library
