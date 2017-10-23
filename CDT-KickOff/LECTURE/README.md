@@ -2,7 +2,9 @@
 Lecture: Gaussian Process Modelling in Python
 ---
 
-This folder contains material for the STFC Data Intensive CDT Kick-Off lecture on GPM in Python. 
+This folder contains material for the STFC Data Intensive CDT Kick-Off lecture on GPM in Python. The reference text book for this lecture is Rasmussen & Williams: *Gaussian Processes for Machine Learning*, a complete copy of which is freely available online here:
+
+- http://www.gaussianprocess.org/gpml/chapters/
 
 There are two iPython scripts to accompany the lecture:
 
