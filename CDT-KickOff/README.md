@@ -13,9 +13,13 @@ There are two iPython scripts to accompany the lecture:
  
  - mauna_loa.dat
  
- You can also find the contents of these scripts described here:
+ You can also find the contents of these scripts described step-by-step here:
  
  - https://allofyourbases.com/2017/08/21/gaussian-processes-in-python/
+ 
+ here:
+ 
+ - https://allofyourbases.com/2017/09/04/gaussian-process-modelling-in-python/
  
  and here:
  
