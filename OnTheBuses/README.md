@@ -2,10 +2,7 @@
 On The Buses
 ===
 
-This folder contains the code from:
-
-- https://allofyourbases.com/2018/01/20/on-the-buses/
-
+This folder contains the code from [this blog post](https://allofyourbases.com/2018/01/20/on-the-buses/).
 
 **Step 1:** 
 > `python get_bus_info.py`
