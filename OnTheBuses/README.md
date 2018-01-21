@@ -8,13 +8,13 @@ This folder contains the code from:
 
 
 **Step 1:** 
-`<python get_bus_info.py>`
+> `python get_bus_info.py`
 
 **Step 2:**
-> make_ward_data.py
+> `python make_ward_data.py`
 
 **Step 3:**
-> make_ward_map.py
+> `python make_ward_map.py`
 
 Also includes:
 
