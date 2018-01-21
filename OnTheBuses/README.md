@@ -16,6 +16,9 @@ This folder contains the code from:
 **Step 3:**
 > `python make_ward_map.py`
 
+
+---
+
 Also includes:
 
 - make_heatmap.py
