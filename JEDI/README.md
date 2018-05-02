@@ -12,4 +12,7 @@ Python 2.7
 - matplotlib
 - george 0.2.1
 - celerite
+- emcee
+- autograd
+- corner
 
