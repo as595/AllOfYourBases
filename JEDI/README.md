@@ -17,7 +17,7 @@ Python 2.7
 - corner
 - acor
 
-===
+
 
 Lecture: Gaussian Process Modelling in Python
 ---
