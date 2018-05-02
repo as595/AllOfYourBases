@@ -15,4 +15,5 @@ Python 2.7
 - emcee
 - autograd
 - corner
+- acor
 
